@@ -1,0 +1,46 @@
+/*.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+  <img src="html5.gif" alt="HTML5" style="width:128px;height:128px">
+}*/
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+    color: #f8abff;
+    font-size: 300%;
+    padding: 14px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #f8abff;
+}
+
+.topnav a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ffffff;
+    color: black;
+}
+
+p {
+    color: rgb(234, 0, 255);
+    font-family: "Montserrat", sans-serif;
+    /*border: 2px solid powderblue;
+    padding: 30px;
+    margin: 50px;*/
+}
